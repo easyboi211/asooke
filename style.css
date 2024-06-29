@@ -96,6 +96,11 @@ body, h1, p, ul {
     opacity: 1;
 }
 
+.img-fluids{
+    height: 298px;
+    width: 237px;
+}
+
 /* Footer section styles */
 .footer .btn.btn-social:hover {
     color: var(--primary);
